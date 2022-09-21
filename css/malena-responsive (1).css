@@ -1,0 +1,153 @@
+/* Normal desktop :992px. LG Device */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .main-menu ul {
+    margin: 0 40px;
+  }
+  .banner-bg:before {
+    width: 270px;
+  }
+  .my-picture img {
+    left: 80px;
+  }
+  .banner-text h1 {
+    font-size: 36px;
+  }
+  .resume-wrap .icon.icon-left {
+    left: 422px;
+    top: 0;
+  }
+}
+
+/* small mobile layout :320px. */
+@media only screen and (max-width: 767px) {
+  .slicknav_menu {
+    display: block;
+  }
+  .main-menu {
+    display: none !important;
+  }
+  .header-controls {
+    display: none;
+  }
+  div.slicknav_menu {
+    margin-top: -60px;
+    background: transparent;
+  }
+  .slicknav_btn {
+    margin: 6px 25px 16px 8px;
+    border-radius: 0px;
+  }
+  .slicknav_nav {
+    background: #222;
+    padding: 15px;
+    text-align: center;
+  }
+  .slicknav-bg-6 div.slicknav_menu {
+    margin-top: 12px;
+    background: transparent;
+  }
+
+  #showSwitcher,
+  #switcher {
+    top: 180px;
+  }
+
+  .my-picture {
+    display: none;
+  }
+  .banner-bg {
+    display: none;
+  }
+  .banner-text h1 {
+    font-size: 32px;
+  }
+  .section-tittle span {
+    font-size: 100px;
+  }
+
+  .text-right {
+    text-align: left !important;
+  }
+  .resume-wrap .icon.icon-left {
+    left: -24px;
+    top: 0;
+  }
+  .resume-page .icon-border {
+    left: 24px;
+    border-left: 1px solid #ed1d24;
+    border-right: none;
+  }
+  .icon-border.resume-wrap .text {
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+
+  .con-about {
+    padding-left: 0px;
+  }
+  .space-left {
+    padding-left: 0px;
+  }
+  .about-margin {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+/* Large Mobile layout:550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .slicknav_menu {
+    display: block;
+  }
+  .main-menu {
+    display: none !important;
+  }
+  .header-controls {
+    display: none;
+  }
+  div.slicknav_menu {
+    margin-top: -60px;
+    background: transparent;
+  }
+  .slicknav_btn {
+    margin: 6px 90px 16px 8px;
+  }
+  .bbr-mb.menu-background {
+    top: 0px;
+  }
+  .slicknav_nav {
+    background: #222;
+    padding: 15px;
+    text-align: center;
+  }
+  .my-picture {
+    display: none;
+  }
+  .banner-bg {
+    display: none;
+  }
+  .banner-text h1 {
+    font-size: 36px;
+  }
+  .section-tittle span {
+    font-size: 100px;
+    top: -20px;
+  }
+
+  .text-right {
+    text-align: left !important;
+  }
+  .resume-wrap .icon.icon-left {
+    left: -24px;
+    top: 0;
+  }
+  .resume-page .icon-border {
+    left: 24px;
+    border-left: 1px solid #ed1d24;
+    border-right: none;
+  }
+  .icon-border.resume-wrap .text {
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+}

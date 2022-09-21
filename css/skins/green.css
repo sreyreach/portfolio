@@ -1,0 +1,123 @@
+.banner-bg:before {
+  background-color: #09a223;
+}
+.main-menu ul li a:hover,
+.resume-wrap:hover .icon i,
+.features-wrapper .features-icon i {
+  color: #09a223;
+}
+#preloader span {
+  border: 8px solid #09a223;
+}
+.search-model-form input.form-control:focus {
+  border-color: #09a223;
+}
+.banner-text a:hover,
+.about-text a:hover,
+#contact-form button:hover {
+  color: #fff;
+  background: #09a223;
+  border: 1px solid #09a223;
+}
+.resume-page .heading:after {
+  background: #09a223;
+  opacity: 0.3;
+}
+.resume-wrap .icon {
+  background: #09a223;
+  border: 1px solid #09a223;
+}
+.resume-wrap:hover .icon {
+  color: #09a223;
+  background: #fff;
+}
+.resume-page .icon-border {
+  border-right: 1px solid #09a223;
+}
+.resume-wrap {
+  border-left: 1px solid #09a223;
+}
+#scrollUp {
+  background-color: #09a223;
+  border: 1px solid #09a223;
+}
+.progress-wrap .bar1 .fill.progress-bg1 {
+  background: #09a223 !important;
+}
+.barfiller .fill {
+  background: #09a223 !important;
+}
+
+.Portfolio-menu button:hover,
+.Portfolio-menu button.active {
+  color: #09a223;
+}
+.portfolio-content:hover h2 a {
+  color: #09a223;
+}
+
+.blog-img::before {
+  background: rgb(9 162 35 / 70%);
+}
+.blog-wrapper:hover .blog-text h4 a {
+  color: #09a223;
+}
+.blog-text span::before {
+  background: #09a223 none repeat scroll 0 0;
+}
+
+.features-wrapper:hover .features-icon i {
+  background: #09a223;
+  color: #fff;
+}
+#contact-form .form-control:focus {
+  border-color: #09a223;
+}
+.copyright-1 a:hover {
+  color: #09a223;
+}
+.contact-wrapper h3:after {
+  background: #09a223;
+}
+.malena-black #contact-form .form-control:focus {
+  border-color: #09a223;
+}
+.malena-black .contact-wrapper h3:after {
+  background: #09a223;
+}
+#scrollUp:hover {
+  background: #fff;
+  border: 1px solid #09a223;
+  color: #09a223;
+}
+
+.demo-black .main-menu ul li a:hover {
+  color: #09a223;
+}
+.demo-black .main-menu ul li a:hover {
+  color: #09a223;
+}
+.malena-black .banner-text a:hover,
+.malena-black .about-text a:hover {
+  color: #fff;
+  border: 1px solid #09a223;
+}
+.malena-black .banner-text a:hover,
+.malena-black .about-text a:hover {
+  color: #fff;
+  border: 1px solid #09a223;
+}
+.malena-black .Portfolio-menu button:hover,
+.malena-black .Portfolio-menu button.active {
+  color: #09a223;
+  font-weight: 500;
+}
+.malena-black .features-wrapper:hover .features-icon i {
+  background: #09a223;
+  color: #fff;
+}
+.malena-black #contact-form button:hover {
+  background: #09a223;
+  border: 1px solid #09a223;
+  color: #fff;
+}
