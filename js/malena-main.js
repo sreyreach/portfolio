@@ -164,6 +164,8 @@
       $(".bar2").barfiller({ duration: 3000 });
       $(".bar3").barfiller({ duration: 3000 });
       $(".bar4").barfiller({ duration: 3000 });
+      $(".bar5").barfiller({ duration: 3000 });
+      $(".bar6").barfiller({ duration: 3000 });
     });
 
     /* Client Slider */
