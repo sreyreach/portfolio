@@ -1920,3 +1920,6 @@ button:focus {
   font-weight: 500;
   border: 1px solid #ddd;
 }
+.green {
+  color: #28a745;
+}

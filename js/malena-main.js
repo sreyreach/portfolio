@@ -108,13 +108,11 @@
         loop: true,
       });
       personal
-        .typeString("UI/UX Designer.")
-        .pauseFor(2000)
-        .deleteAll()
         .typeString("Web Developer.")
         .pauseFor(2000)
         .deleteAll()
-        .typeString("Wordpress Developer.")
+        .typeString("Backend Developer.")
+        .pauseFor(2000)
         .start();
     }
 
